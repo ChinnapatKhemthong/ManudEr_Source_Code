@@ -1,0 +1,364 @@
+.snack .bu-survey-app {
+  margin: 0 0 5px 1.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 6.3px;
+  color: #FFFFFF;
+}
+.snack .april-2024 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 8.8px;
+  color: #FFA826;
+}
+.snack .container-13 {
+  border-radius: 80px;
+  background: #B07CD0;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 0 39px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.snack .search-your-favourite-food {
+  position: relative;
+  margin: 13px 9px 10px 0;
+  display: inline-block;
+  width: 279px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #D9D9D9;
+}
+.snack .image-21 {
+  background: url('assets/images/Image21.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 22px;
+}
+.snack .container-9 {
+  border-radius: 5px;
+  border: 2px solid #B4B4B4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 14px 10px 15px;
+  width: 51px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.snack .container-1 {
+  margin: 0 18px 21px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 339px;
+  box-sizing: border-box;
+}
+.snack .category {
+  margin: 0 21px 22px 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.snack .image-22 {
+  background: url('assets/images/Image22.png') 50% / cover no-repeat;
+  margin-bottom: 22px;
+  width: 66px;
+  height: 50px;
+}
+.snack .all {
+  margin-left: 2.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.snack .container-3 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 10px 20px 11px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.snack .image-14 {
+  background: url('assets/images/Image14.png') 50% / cover no-repeat;
+  margin-bottom: 11px;
+  width: 72px;
+  height: 72px;
+}
+.snack .food {
+  margin: 0 12px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.snack .container-7 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  padding: 33px 7px 20px 8px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.snack .image-15 {
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  margin: 0 2.8px 7px 0;
+  width: 42px;
+  height: 86px;
+}
+.snack .drink {
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.snack .container-10 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 17.2px 20px 19px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.snack .image-16 {
+  background: url('assets/images/Image16.png') 50% / cover no-repeat;
+  margin-bottom: 11px;
+  width: 68px;
+  height: 68px;
+}
+.snack .snack-2 {
+  margin: 0 7.2px 0 9px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.snack .container {
+  border-radius: 10px;
+  border: 2px solid #FF0000;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 37px 9px 20px 10px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.snack .group-30 {
+  margin: 0 8px 16px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 16px);
+  box-sizing: border-box;
+}
+.snack .snack-1 {
+  margin: 0 20px 15px 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.snack .image-46 {
+  border-radius: 30px;
+  background: url('assets/images/Image421.png');
+  margin-bottom: 5px;
+  width: 170px;
+  height: 136px;
+}
+.snack .container-1 {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.snack .container-8 {
+  border-radius: 30px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-right: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10px;
+  flex-grow: 1;
+  flex-basis: 170px;
+  box-sizing: border-box;
+}
+.snack .image-45 {
+  border-radius: 30px;
+  background: url('assets/images/Image453.png') 50% / cover no-repeat;
+  margin-bottom: 5px;
+  width: 170px;
+  height: 136px;
+}
+.snack .container {
+  margin: 0 14px 0 13px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.snack .container-12 {
+  border-radius: 30px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10px;
+  flex-grow: 1;
+  flex-basis: 170px;
+  box-sizing: border-box;
+}
+.snack .container-2 {
+  margin: 0 34px 183px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 54px);
+  box-sizing: border-box;
+}
+.snack .vote {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFFFFF;
+}
+.snack .container-5 {
+  border-radius: 10px;
+  background: #FFA826;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 6.6px 11px 0;
+  width: 161px;
+  box-sizing: border-box;
+}
+.snack .back {
+  position: relative;
+  margin: 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFA826;
+}
+.snack .container-11 {
+  margin: 0 41px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 302.2px;
+  box-sizing: border-box;
+}
+.snack .image-20 {
+  background: url('assets/images/Image39.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 22px;
+}
+.snack .container-6 {
+  border-radius: 5px;
+  border: 2px solid #B4B4B4;
+  position: absolute;
+  left: 20px;
+  top: 178px;
+  padding: 9px 15px 10px 15px;
+  width: 327px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.snack .rectangle-35 {
+  border-radius: 10px;
+  border: 2px solid #FFA826;
+  position: absolute;
+  right: 41px;
+  bottom: 38px;
+  width: 160px;
+  height: 50px;
+}
+.snack .image-47 {
+  border-radius: 30px;
+  background: url('assets/images/Image472.png');
+  margin-bottom: 7px;
+  width: 170px;
+  height: 136px;
+}
+.snack .container-2 {
+  margin-right: 0.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.snack .container-4 {
+  border-radius: 30px;
+  background: rgba(217, 217, 217, 0.5);
+  position: absolute;
+  left: 20px;
+  bottom: 77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.snack {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 38px;
+  box-sizing: border-box;
+}

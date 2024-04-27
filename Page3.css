@@ -1,0 +1,1332 @@
+.page-3 .group-1 {
+  position: absolute;
+  left: 50%;
+  top: 307px;
+  translate: -50% 0;
+  width: 335px;
+  height: 254px;
+}
+.page-3 .bu-survey-app {
+  position: relative;
+  margin: 0 0.8px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 4.6px;
+  color: #FFFFFF;
+}
+.page-3 .leaderboard {
+  position: relative;
+  margin: 0 0.8px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 6.3px;
+  color: #FFFFFF;
+}
+.page-3 .container-1 {
+  margin: 7px 15.8px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page-3 .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page-3 .container-19 {
+  border-radius: 80px;
+  background: rgba(54, 51, 53, 0.5);
+  position: relative;
+  margin-right: 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 12.1px 7px 14px;
+  flex-grow: 1;
+  flex-basis: 116px;
+  box-sizing: border-box;
+}
+.page-3 .container-3 {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page-3 .container-23 {
+  border-radius: 80px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 0.9px 14px 0.9px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 11.4px 2px 19px;
+  width: calc(100% - 1.8px);
+  box-sizing: border-box;
+}
+.page-3 .now-100-vote {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  color: #FFFFFF;
+}
+.now-100-vote-sub34 {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+}
+.now-100-vote-sub33 {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+  color: #FE0000;
+}
+.now-100-vote {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+}
+.page-3 .container-18 {
+  border-radius: 80px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 0.9px 9.8px 0.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 10px 3.2px;
+  width: calc(100% - 1.8px);
+  box-sizing: border-box;
+}
+.page-3 .star-111 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .container-29 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-11 {
+  position: relative;
+  margin-right: 10.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.2px 10.7px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page-3 .vote-11 {
+  margin: 4.2px 0 4.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-24 {
+  position: relative;
+  margin: 0 8px 29.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-3 .star-112 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .container-30 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-12 {
+  position: relative;
+  margin-right: 9.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.2px 10.1px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page-3 .vote-12 {
+  margin: 4.2px 0 4.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-28 {
+  position: relative;
+  margin-bottom: 9.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-3 .star-113 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .container-31 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-13 {
+  position: relative;
+  margin-right: 9.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.2px 10.1px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page-3 .vote-13 {
+  margin: 4.2px 0 4.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-2 {
+  position: relative;
+  margin-left: 226.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page-3 .group-10 {
+  border-radius: 80px;
+  background: #B07CD0;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 111px 39.1px 177.6px 39.1px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page-3 .container-4 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-4 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .star-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-18 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-411 {
+  position: absolute;
+  left: 85px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .vote {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-17 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-15 {
+  position: absolute;
+  top: 11px;
+  right: 18.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: rgba(255, 255, 255, 0.9);
+}
+.page-3 .container-15 {
+  border-radius: 26px;
+  background: rgba(141, 141, 141, 0.9);
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-14 {
+  position: absolute;
+  top: 50%;
+  right: 65.3px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(50, 50, 50, 0.9);
+}
+.page-3 .star-114 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-32 {
+  position: absolute;
+  left: 9.9px;
+  top: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.9);
+}
+.page-3 .star-fill-14 {
+  position: absolute;
+  top: 18.8px;
+  right: 15.1px;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-412 {
+  position: absolute;
+  left: 85px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-16 {
+  border-radius: 10px;
+  background: rgba(217, 217, 217, 0.9);
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-16 {
+  position: absolute;
+  top: 11px;
+  right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: rgba(255, 255, 255, 0.8);
+}
+.page-3 .container-12 {
+  border-radius: 26px;
+  background: rgba(141, 141, 141, 0.8);
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-15 {
+  position: absolute;
+  top: 50%;
+  right: 67.7px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(50, 50, 50, 0.8);
+}
+.page-3 .star-115 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-33 {
+  position: absolute;
+  left: 9.9px;
+  top: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.page-3 .star-fill-15 {
+  position: absolute;
+  top: 16.8px;
+  right: 15.1px;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-4 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-11 {
+  border-radius: 10px;
+  background: rgba(217, 217, 217, 0.8);
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-5 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-17 {
+  position: absolute;
+  left: 19px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page-3 .container-20 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-1 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-11 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-19 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-1 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-41 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-30 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-6 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-22 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-2 {
+  position: absolute;
+  top: 50%;
+  right: 66.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-20 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-2 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-47 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-31 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -90px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-11 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-26 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-7 {
+  position: absolute;
+  top: 50%;
+  right: 66.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-17 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-25 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-7 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-42 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -182px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-7 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-25 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-3 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-21 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-3 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-48 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-7 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -274px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-12 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-27 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-8 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-18 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-26 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-8 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-43 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-32 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -366px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-8 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-29 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-4 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-14 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-22 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-4 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-49 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-8 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -458px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-13 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-5 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-9 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-19 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-27 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-9 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-44 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-10 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -550px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-9 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-6 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-5 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-15 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-23 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-5 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-410 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-21 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -642px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-14 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-13 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-10 {
+  position: absolute;
+  top: 50%;
+  right: 65.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-110 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-28 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-10 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-45 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-9 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -734px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .container-10 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page-3 .container-3 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page-3 .vote-6 {
+  position: absolute;
+  top: 50%;
+  right: 66.6px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .star-16 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page-3 .container-24 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page-3 .star-fill-6 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page-3 .restaurant-46 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page-3 .container-14 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -826px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page-3 .vote-16 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFFFFF;
+}
+.page-3 .container-1 {
+  border-radius: 10px;
+  background: #FFA826;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 6.6px 11px 0;
+  width: 161px;
+  box-sizing: border-box;
+}
+.page-3 .back {
+  position: relative;
+  margin: 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFA826;
+}
+.page-3 .rectangle-35 {
+  border-radius: 10px;
+  border: 2px solid #FFA826;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 160px;
+  height: 50px;
+}
+.page-3 .group-11 {
+  border-radius: 10px;
+  position: absolute;
+  left: 9px;
+  right: 9px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.page-3 .frame-12 {
+  position: relative;
+  margin: 0 32px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2px;
+  width: calc(100% - 64px);
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 31px;
+  box-sizing: border-box;
+}

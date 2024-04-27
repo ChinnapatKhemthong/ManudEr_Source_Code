@@ -1,0 +1,1420 @@
+.page .bu-survey-app {
+  margin: 0 0.8px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 4.6px;
+  color: #FFFFFF;
+}
+.page .leaderboard {
+  margin: 0 0.8px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 6.3px;
+  color: #FFFFFF;
+}
+.page .container-40 {
+  margin: 7px 14.4px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page .container-41 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page .container-5 {
+  border-radius: 80px;
+  background: rgba(54, 51, 53, 0.5);
+  position: relative;
+  margin-right: 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 14.9px 7px 14px;
+  flex-grow: 1;
+  flex-basis: 116px;
+  box-sizing: border-box;
+}
+.page .container-42 {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.page .container-4 {
+  border-radius: 80px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 11.1px 2px 19px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page .now-100-vote {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  color: #FFFFFF;
+}
+.now-100-vote-sub34 {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+}
+.now-100-vote-sub33 {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+  color: #FE0000;
+}
+.now-100-vote {
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 7.7px;
+  line-height: 1.333;
+}
+.page .container-36 {
+  border-radius: 80px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-bottom: 9.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 10px 3.2px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page .star-113 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-43 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-13 {
+  position: relative;
+  margin-right: 10.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.2px 10.1px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page .vote-14 {
+  margin: 4.2px 0 4.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-10 {
+  margin: 0 6.9px 3.6px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page .rectangle-8 {
+  border-radius: 15px;
+  background: #B0B0B0;
+  position: absolute;
+  left: 10px;
+  bottom: 0px;
+  width: 105px;
+  height: 98px;
+}
+.page .rectangle-7 {
+  border-radius: 15px;
+  background: #FF9F6A;
+  position: absolute;
+  right: 10px;
+  bottom: 0px;
+  width: 105px;
+  height: 66px;
+}
+.page .vote-15 {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .image-48 {
+  border-radius: 68px;
+  background: url('assets/images/Image422.png') 50% / cover no-repeat;
+  width: 72px;
+  height: 72px;
+}
+.page .container-28 {
+  border-radius: 39px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 16.8px 11px 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px;
+  width: 78px;
+  height: 78px;
+  box-sizing: border-box;
+}
+.page .container-46 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 15px;
+  color: #323232;
+}
+.page .container-31 {
+  border-radius: 15px;
+  background: #EBEBEB;
+  position: relative;
+  margin-right: 2.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 40px 7.7px 40px 8px;
+  box-sizing: border-box;
+}
+.page .container-14 {
+  margin: 30px 7.2px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.page .image-481 {
+  border-radius: 68px;
+  background: url('assets/images/Image481.png') 50% / cover no-repeat, url('assets/images/Image481.png') 50% / cover no-repeat;
+  width: 90px;
+  height: 90px;
+}
+.page .container-24 {
+  border-radius: 48px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 4px 15px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px;
+  width: 96px;
+  height: 96px;
+  box-sizing: border-box;
+}
+.page .container-48 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 13px;
+  color: #323232;
+}
+.page .container-17 {
+  border-radius: 15px;
+  background: #FFDC69;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 49px 4px 78px 5px;
+  box-sizing: border-box;
+}
+.page .container-16 {
+  margin-right: 5.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.page .star-115 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-45 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-15 {
+  position: relative;
+  margin-bottom: 12.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  padding: 4.2px 10.7px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page .ellipse-3 {
+  position: relative;
+  margin: 0 18px 11px 18px;
+  align-self: flex-end;
+  width: 69px;
+  height: 68px;
+}
+.page .container-47 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-25 {
+  border-radius: 15px;
+  background: #FFD1B8;
+  position: relative;
+  margin-left: 4.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 22px 0 22px 0.4px;
+  width: 105px;
+  box-sizing: border-box;
+}
+.page .image-482 {
+  border-radius: 68px;
+  background: url('assets/images/Image482.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 45.2px;
+  translate: -50% 0;
+  width: 63px;
+  height: 63px;
+}
+.page .container-37 {
+  position: relative;
+  margin-top: 65.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.page .group-1 {
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.page .vote-16 {
+  position: absolute;
+  right: 45.4px;
+  bottom: 182px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-114 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-44 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-14 {
+  position: absolute;
+  left: 39.1px;
+  bottom: 217.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4.2px 10.1px 4.4px 9.9px;
+  box-sizing: border-box;
+}
+.page .container-21 {
+  border-radius: 80px;
+  background: #B07CD0;
+  position: relative;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 195px 40px 20px 40px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.page .container-1 {
+  position: absolute;
+  left: 18px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-12 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote {
+  position: absolute;
+  top: 50%;
+  right: 60.3px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-14 {
+  position: absolute;
+  left: 9.9px;
+  top: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-38 {
+  position: absolute;
+  left: 85px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-27 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-12 {
+  position: absolute;
+  top: 11px;
+  right: 18.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-1 {
+  border-radius: 26px;
+  background: rgba(141, 141, 141, 0.9);
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-11 {
+  position: absolute;
+  top: 50%;
+  right: 60px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-111 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-25 {
+  position: absolute;
+  left: 9.9px;
+  top: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.9);
+}
+.page .star-fill-11 {
+  position: absolute;
+  top: 18.8px;
+  right: 15.1px;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-39 {
+  position: absolute;
+  left: 85px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-19 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-13 {
+  position: absolute;
+  top: 11px;
+  right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-38 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-12 {
+  position: absolute;
+  top: 50%;
+  right: 59px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-112 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-26 {
+  position: absolute;
+  left: 9.9px;
+  top: 4.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-12 {
+  position: absolute;
+  top: 16.8px;
+  right: 15.1px;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-27 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-15 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: relative;
+  padding: 10px 16px;
+  width: 100%;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-2 {
+  position: absolute;
+  top: 11px;
+  right: 18.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-3 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-1 {
+  position: absolute;
+  top: 50%;
+  right: 58.1px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-11 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-15 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-1 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-28 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-29 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -92px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-3 {
+  position: absolute;
+  top: 11px;
+  right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-30 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-2 {
+  position: absolute;
+  top: 50%;
+  right: 62.2px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-16 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-2 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-34 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-2 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -184px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-8 {
+  position: absolute;
+  top: 11px;
+  right: 18.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 8.1px;
+  color: #FFFFFF;
+}
+.page .container-26 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-7 {
+  position: absolute;
+  top: 50%;
+  right: 62.2px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-17 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-21 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-7 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-29 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -276px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-4 {
+  position: absolute;
+  top: 11px;
+  right: 11.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-7 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-3 {
+  position: absolute;
+  top: 50%;
+  right: 58.3px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-17 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-3 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-35 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-9 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -368px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-9 {
+  position: absolute;
+  left: 13px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-11 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-8 {
+  position: absolute;
+  top: 50%;
+  right: 56.3px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-18 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-22 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-8 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-30 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-33 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -460px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-5 {
+  position: absolute;
+  left: 11px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-13 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-4 {
+  position: absolute;
+  top: 50%;
+  right: 58.8px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-14 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-18 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-4 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-36 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-34 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -552px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-10 {
+  position: absolute;
+  top: 11px;
+  right: 11.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-32 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-9 {
+  position: absolute;
+  top: 50%;
+  right: 58.9px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-19 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-23 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-9 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-31 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-6 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -644px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-6 {
+  position: absolute;
+  top: 11px;
+  right: 11.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-8 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-5 {
+  position: absolute;
+  top: 50%;
+  right: 59.4px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-15 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-19 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-5 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-37 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-18 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -736px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-11 {
+  position: absolute;
+  left: 12px;
+  top: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-23 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-10 {
+  position: absolute;
+  right: 76px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-110 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-24 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-10 {
+  position: absolute;
+  top: 50%;
+  right: 15.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-32 {
+  position: absolute;
+  left: 86px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-35 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -828px;
+  padding: 10px 16px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .container-7 {
+  position: absolute;
+  top: 11px;
+  right: 11.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 23px;
+  letter-spacing: 2.3px;
+  color: #FFFFFF;
+}
+.page .container-22 {
+  border-radius: 26px;
+  background: #8D8D8D;
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.page .vote-6 {
+  position: absolute;
+  right: 74px;
+  bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .star-16 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.page .container-20 {
+  position: absolute;
+  left: 9.9px;
+  top: 3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.page .star-fill-6 {
+  position: absolute;
+  top: 50%;
+  right: 16.1px;
+  translate: 0 -50%;
+  width: 31.8px;
+  height: 30.7px;
+}
+.page .container-33 {
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.page .container-20 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -920px;
+  padding: 10px 15px;
+  height: 72px;
+  box-sizing: border-box;
+}
+.page .frame-13 {
+  position: relative;
+  margin: 0 33px 41px 31px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 64px);
+  box-sizing: border-box;
+}
+.page .vote-13 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFFFFF;
+}
+.page .group-57 {
+  border-radius: 10px;
+  background: #FFA826;
+  position: relative;
+  margin: 0 33px 0 41px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 9.6px 12px 0;
+  width: calc(100% - 74px);
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 31px;
+  box-sizing: border-box;
+}
