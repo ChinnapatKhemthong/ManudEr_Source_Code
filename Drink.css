@@ -1,0 +1,309 @@
+.drink .image-45 {
+  border-radius: 30px;
+  background: url('assets/images/Image422.png') 50% / cover no-repeat;
+  width: 170px;
+  height: 136px;
+}
+.drink .container-4 {
+  border-radius: 30px;
+  background: rgba(217, 217, 217, 0.5);
+  position: absolute;
+  left: 23px;
+  bottom: 265px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 170px;
+  height: 173px;
+  box-sizing: border-box;
+}
+.drink .bu-survey-app {
+  margin: 0 0 5px 1.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  letter-spacing: 6.3px;
+  color: #FFFFFF;
+}
+.drink .april-2024 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  letter-spacing: 8.8px;
+  color: #FFA826;
+}
+.drink .container-7 {
+  border-radius: 80px;
+  background: #B07CD0;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 0 39px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.drink .search-your-favourite-food {
+  position: relative;
+  margin: 13px 9px 10px 0;
+  display: inline-block;
+  width: 279px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  color: #D9D9D9;
+}
+.drink .image-21 {
+  background: url('assets/images/Image21.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 22px;
+}
+.drink .container-3 {
+  border-radius: 5px;
+  border: 2px solid #B4B4B4;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 9px 14px 10px 15px;
+  width: 51px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.drink .container-6 {
+  margin: 0 18px 24px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 339px;
+  box-sizing: border-box;
+}
+.drink .category {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.drink .frame-32 {
+  margin: 0 21px 22px 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.drink .image-22 {
+  background: url('assets/images/Image22.png') 50% / cover no-repeat;
+  margin-bottom: 22px;
+  width: 66px;
+  height: 50px;
+}
+.drink .all {
+  margin-left: 2.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.drink .container-9 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 10px 20px 11px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.drink .image-14 {
+  background: url('assets/images/Image14.png') 50% / cover no-repeat;
+  margin-bottom: 11px;
+  width: 72px;
+  height: 72px;
+}
+.drink .food {
+  margin: 0 12px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.drink .container-10 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  padding: 33px 7px 20px 8px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.drink .image-15 {
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  margin: 0 2.8px 7px 0;
+  width: 42px;
+  height: 86px;
+}
+.drink .drink-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.drink .container-8 {
+  border-radius: 10px;
+  border: 2px solid #FF0000;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 17.2px 20px 19px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.drink .image-16 {
+  background: url('assets/images/Image16.png') 50% / cover no-repeat;
+  margin-bottom: 11px;
+  width: 68px;
+  height: 68px;
+}
+.drink .snack {
+  margin: 0 7.2px 0 9px;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #323232;
+}
+.drink .container-5 {
+  border-radius: 10px;
+  border: 2px solid #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 37px 9px 20px 10px;
+  flex-grow: 1;
+  flex-basis: 87px;
+  box-sizing: border-box;
+}
+.drink .frame-31 {
+  margin: 0 8px 17px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 16px);
+  box-sizing: border-box;
+}
+.drink .drink-1 {
+  margin: 0 23px 161px 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.drink .container {
+  position: relative;
+  margin: 0 225.2px 162px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inria Sans';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.drink .vote {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFFFFF;
+}
+.drink .container-1 {
+  border-radius: 10px;
+  background: #FFA826;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 11px 6.6px 11px 0;
+  width: 161px;
+  box-sizing: border-box;
+}
+.drink .back {
+  position: relative;
+  margin: 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  color: #FFA826;
+}
+.drink .container-2 {
+  margin: 0 41px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 302.2px;
+  box-sizing: border-box;
+}
+.drink .image-20 {
+  background: url('assets/images/Image39.png') 50% / cover no-repeat;
+  width: 22px;
+  height: 22px;
+}
+.drink .container {
+  border-radius: 5px;
+  border: 2px solid #B4B4B4;
+  position: absolute;
+  left: 20px;
+  top: 178px;
+  padding: 9px 15px 10px 15px;
+  width: 327px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.drink .rectangle-35 {
+  border-radius: 10px;
+  border: 2px solid #FFA826;
+  position: absolute;
+  right: 41px;
+  bottom: 38px;
+  width: 160px;
+  height: 50px;
+}
+.drink {
+  border-radius: 50px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 38px;
+  box-sizing: border-box;
+}

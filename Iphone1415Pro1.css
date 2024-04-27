@@ -1,0 +1,58 @@
+.iphone-1415-pro-1 .book-collection {
+  overflow-wrap: break-word;
+  font-family: 'Kaushan Script';
+  font-weight: 400;
+  font-size: 55px;
+  color: #000000;
+}
+.book-collection-sub275 {
+  font-family: 'Kaushan Script';
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 1.333;
+}
+.book-collection {
+  font-family: 'Kaushan Script';
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 1.333;
+  color: #48A7BE;
+}
+.iphone-1415-pro-1 .container {
+  background: url('assets/images/UntitledDesign31.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 105px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 396px 1.4px 36px 0;
+  width: 911px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-1 .get-started {
+  overflow-wrap: break-word;
+  font-family: 'Sarabun';
+  font-weight: 800;
+  font-size: 26px;
+  color: #FFFFFF;
+}
+.iphone-1415-pro-1 .container-1 {
+  border-radius: 60px;
+  background: #A8D3FF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 22px 0 25px 4px;
+  width: 219px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-1 {
+  border-radius: 60px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 0 40px 0;
+  box-sizing: border-box;
+}
